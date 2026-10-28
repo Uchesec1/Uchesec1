@@ -1,7 +1,7 @@
 # Hi, I'm Franklin
 
 I'm learning cybersecurity through the Cybera Academy Cybersecurity
-Foundation Programme. My background is customer operations at a
+Foundation Programme. My background is customer support at a
 cross border payments company, where I worked on fast-response support, reporting, resolving, escalation
 and process documentation.
 
