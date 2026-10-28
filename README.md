@@ -2,7 +2,7 @@
 
 I'm learning cybersecurity through the Cybera Academy Cybersecurity
 Foundation Programme. My background is customer operations at a
-payments company, where I worked on fast-response support, reporting
+cross border payments company, where I worked on fast-response support, reporting, resolving, escalation
 and process documentation.
 
 ## What I'm learning
