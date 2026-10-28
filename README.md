@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Franklin
 
-<!--
-**Uchesec1/Uchesec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning cybersecurity through the Cybera Academy Cybersecurity
+Foundation Programme. My background is customer operations at a
+payments company, where I worked on fast-response support, reporting
+and process documentation.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Network traffic analysis with Wireshark
+- Linux and Windows log investigation
+- Incident investigation and the Kill Chain
+- Security frameworks: CIA triad, NIST CSF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [SSH Brute Force Investigation](https://github.com/Uchesec1/Cybera-Academy-Capstone-Project)
+  Investigating an attack using a packet capture, a Linux log and Windows events (lab exercise)
+
+More training projects will be added here as I finish them.
+
+## Tools
+Kali Linux, Wireshark, grep, PowerShell
+
+## Note
+Everything here is training work from lab exercises.
